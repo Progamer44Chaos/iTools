@@ -13,7 +13,7 @@ assignees: ''
 *Bitte beschreiben Sie kurz, was passiert ist und bei welcher Aktion der Fehler aufgetreten ist.*
 
 **Identifizierter Error-Code:**
-- [ ] Code: `____` (Bitte hier den Code aus dem iTools-Verzeichnis eintragen, z. B. `04`)
+- [ ] Code: `____` (Bitte hier den Code aus dem iTools-Verzeichnis eintragen, z. B. `004`)
 
 **Schritte zur Reproduktion:**
 1. Öffnen Sie `iTools`.
@@ -27,7 +27,7 @@ assignees: ''
 **System-Informationen:**
 - iPad Modell: `____`
 - iPadOS Version: `____`
-- iTools Version: `1.0.0`
+- iTools Version: `____`
 
 ---
 *Vielen Dank für Ihre Hilfe, iTools stabiler zu machen!*
