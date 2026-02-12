@@ -8,6 +8,7 @@
 > ### [📲 iTools 1.1 jetzt herunterladen](https://github.com/Progamer44Chaos/iTools/raw/refs/heads/main/iTools.shortcut)  (für Apple)
 > *Klicken Sie auf den Link, um die .shortcut-Datei direkt zu laden.*
 
+&nbsp;
 ---
 
 ## 🚀 Kernfunktionen
